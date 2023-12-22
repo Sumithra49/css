@@ -1,4 +1,5 @@
 Introduction to CSS-1
-CREAT PANDA
+
+CREATE PANDA
 
 # css
